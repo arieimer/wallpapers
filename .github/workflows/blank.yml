@@ -1,0 +1,23 @@
+# .github/workflows/update-readme.yml
+name: Update README
+
+on: [push]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate README
+        run: |
+          echo "# Wallpapers" > README.md
+          for img in $(find . -type f \( -iname "*.jpg" -o -iname "*.png" -o -iname "*.webp" \) | sort); do
+            img="${img#./}"
+            name="${img%.*}"
+            echo "### $name" >> README.md
+            echo "![${name}](${img})" >> README.md
+            echo "" >> README.md
+          done
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update README with wallpaper list"

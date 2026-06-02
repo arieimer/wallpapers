@@ -14,3 +14,6 @@
 ### wallpapers/wallhaven-oglrv9_3840x2160
 ![wallpapers/wallhaven-oglrv9_3840x2160](wallpapers/wallhaven-oglrv9_3840x2160.png)
 
+### wallpapers/wallhaven-yqj6xx_3840x2160
+![wallpapers/wallhaven-yqj6xx_3840x2160](wallpapers/wallhaven-yqj6xx_3840x2160.png)
+

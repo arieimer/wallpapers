@@ -14,6 +14,12 @@
 ### wallpapers/wallhaven-6lqvql_3840x2160
 ![wallpapers/wallhaven-6lqvql_3840x2160](wallpapers/wallhaven-6lqvql_3840x2160.png)
 
+### wallpapers/wallhaven-8ordoj_3840x2160
+![wallpapers/wallhaven-8ordoj_3840x2160](wallpapers/wallhaven-8ordoj_3840x2160.png)
+
+### wallpapers/wallhaven-8x1d5y_3840x2160
+![wallpapers/wallhaven-8x1d5y_3840x2160](wallpapers/wallhaven-8x1d5y_3840x2160.png)
+
 ### wallpapers/wallhaven-e89l8k_3840x2160
 ![wallpapers/wallhaven-e89l8k_3840x2160](wallpapers/wallhaven-e89l8k_3840x2160.png)
 
@@ -49,6 +55,9 @@
 
 ### wallpapers/wallhaven-oglrv9_3840x2160
 ![wallpapers/wallhaven-oglrv9_3840x2160](wallpapers/wallhaven-oglrv9_3840x2160.png)
+
+### wallpapers/wallhaven-rqjrzq_3840x2160
+![wallpapers/wallhaven-rqjrzq_3840x2160](wallpapers/wallhaven-rqjrzq_3840x2160.png)
 
 ### wallpapers/wallhaven-w5mqr6_3840x2160
 ![wallpapers/wallhaven-w5mqr6_3840x2160](wallpapers/wallhaven-w5mqr6_3840x2160.png)

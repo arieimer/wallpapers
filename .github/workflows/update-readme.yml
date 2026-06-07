@@ -13,8 +13,7 @@ jobs:
       - uses: actions/checkout@v6
       - name: Generate README
         run: |
-          echo "# Wallpapers" > README.md
-          cat Usage.md >> README.md
+          cat Usage.md > README.md
           for img in $(find ./wallpapers -type f \( -iname "*.jpg" -o -iname "*.png" -o -iname "*.webp" \) | sort); do
             img="${img#./}"
             name="${img%.*}"
@@ -24,4 +23,4 @@ jobs:
           done
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "chore: update README with wallpaper list"
+          commit_message: "chore: update README.md showcase"

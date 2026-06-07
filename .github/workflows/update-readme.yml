@@ -14,7 +14,8 @@ jobs:
       - name: Generate README
         run: |
           echo "# Wallpapers" > README.md
-          for img in $(find . -type f \( -iname "*.jpg" -o -iname "*.png" -o -iname "*.webp" \) | sort); do
+          cat Usage.md >> README.md
+          for img in $(find ./wallpapers -type f \( -iname "*.jpg" -o -iname "*.png" -o -iname "*.webp" \) | sort); do
             img="${img#./}"
             name="${img%.*}"
             echo "### $name" >> README.md

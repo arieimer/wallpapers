@@ -91,9 +91,6 @@
 ### wallpapers/wallhaven-rqjrzq_3840x2160
 ![wallpapers/wallhaven-rqjrzq_3840x2160](wallpapers/wallhaven-rqjrzq_3840x2160.png)
 
-### wallpapers/wallhaven-vqgzql_3840x2160
-![wallpapers/wallhaven-vqgzql_3840x2160](wallpapers/wallhaven-vqgzql_3840x2160.png)
-
 ### wallpapers/wallhaven-w5mqr6_3840x2160
 ![wallpapers/wallhaven-w5mqr6_3840x2160](wallpapers/wallhaven-w5mqr6_3840x2160.png)
 

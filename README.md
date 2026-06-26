@@ -46,6 +46,9 @@
 ### wallpapers/wallhaven-6lqvql_3840x2160
 ![wallpapers/wallhaven-6lqvql_3840x2160](wallpapers/wallhaven-6lqvql_3840x2160.png)
 
+### wallpapers/wallhaven-72kvko_3840x2160
+![wallpapers/wallhaven-72kvko_3840x2160](wallpapers/wallhaven-72kvko_3840x2160.png)
+
 ### wallpapers/wallhaven-8ordoj_3840x2160
 ![wallpapers/wallhaven-8ordoj_3840x2160](wallpapers/wallhaven-8ordoj_3840x2160.png)
 

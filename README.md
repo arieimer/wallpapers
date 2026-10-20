@@ -82,6 +82,9 @@
 ### wallpapers/wallhaven-ly3eel_3840x2160
 ![wallpapers/wallhaven-ly3eel_3840x2160](wallpapers/wallhaven-ly3eel_3840x2160.png)
 
+### wallpapers/wallhaven-lyg6gl_3840x2160
+![wallpapers/wallhaven-lyg6gl_3840x2160](wallpapers/wallhaven-lyg6gl_3840x2160.png)
+
 ### wallpapers/wallhaven-lywevp_3840x2160
 ![wallpapers/wallhaven-lywevp_3840x2160](wallpapers/wallhaven-lywevp_3840x2160.png)
 
